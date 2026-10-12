@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HydroSense Edge</string>
+    <string name="dashboard_title">HydroSense Edge</string>
+    <string name="hydrated">HYDRATED</string>
+    <string name="borderline">BORDERLINE</string>
+    <string name="dehydrated">DEHYDRATED</string>
+    <string name="measuring">MEASURING</string>
+    <string name="no_data">--</string>
+    <string name="ble_connect">Connect</string>
+    <string name="ble_disconnect">Disconnect</string>
+    <string name="ble_scan">Scan Devices</string>
+    <string name="ble_stop_scan">Stop Scan</string>
+</resources>
